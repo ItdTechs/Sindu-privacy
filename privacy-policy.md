@@ -3,7 +3,7 @@ Privacy Policy
 ### Introduction
 Our privacy policy will help you understand what information we collect at ITD Technologies PLC, how  ITD Technologies PLC uses it, and what choices you have.
 
- ITD Technologies PLC  built the Sindu app a subscription based app. This SERVICE is provided by  ITD Technologies PLC at $0 for free Trial and $20 for annual subscription and is intended for use as is.
+ ITD Technologies PLC  built the Sindu(ስንዱ) app a subscription based app. This SERVICE is provided by  ITD Technologies PLC at $0 for free Trial and $20 for annual subscription and is intended for use as is.
 
 If you choose to use our Service, then you agree to the collection and use of information in relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
 
